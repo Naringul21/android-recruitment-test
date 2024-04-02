@@ -1,7 +1,8 @@
-package com.example.algoritmaapp
+package com.example.algoritmaapp.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.algoritmaapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
