@@ -10,7 +10,7 @@ plugins {
 
 android {
     namespace = "com.example.algoritmaapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.algoritmaapp"
@@ -49,7 +49,7 @@ android {
 dependencies {
     //Glide
     implementation ("com.github.bumptech.glide:glide:4.11.0")
-    annotationProcessor( "com.github.bumptech.glide:compiler:4.11.0")
+    kapt ( "com.github.bumptech.glide:compiler:4.11.0")
 
 
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0-alpha03")
