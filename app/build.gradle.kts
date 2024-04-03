@@ -61,6 +61,7 @@ dependencies {
     implementation("io.ktor:ktor-client-android:1.6.4")
     implementation("io.ktor:ktor-client-websockets:1.6.4")
     implementation ("io.socket:socket.io-client:2.1.0")
+    implementation("com.github.nkzawa:socket.io-client:0.6.0")
 
     //Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
