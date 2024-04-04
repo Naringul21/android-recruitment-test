@@ -1,3 +1,14 @@
+Welcome to my project! This project is developed using modern Android development tools and technologies to provide a seamless user experience. Here's a brief overview of what I've used:
+
+KOTLIN: My primary programming language for developing robust and concise Android applications.
+MVVM Architecture: I've adopted the Model-View-ViewModel architectural pattern to ensure separation of concerns and maintainability of my codebase.
+FLOW: I utilize Kotlin's Flow library to handle asynchronous data streams in a concise and efficient manner.
+SOCKET IO v2: For real-time communication and updates, I leverage the power of Socket.IO v2, enabling seamless and instant data exchange between the client and server.
+HILT DI (Dependency Injection): Hilt is my choice for managing dependency injection in my project, providing a standard way to organize and manage dependencies.
+ROOM DATABASE: I use Room Database to provide a robust and reliable local storage solution for caching and managing app data.
+LINEAR PROGRESS INDICATOR: LinearProgressIndicator is employed to display progress indication in a linear fashion, providing visual feedback to the user during data loading or processing.
+
+
 Android Recruitment test
 
 ### Tələb 1
